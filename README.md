@@ -7,7 +7,7 @@
 - 🎓 Pursuing for **Academic Master** degree **@HUST** and majored in ***Computer System Architecture***
 - 🔭 I'm currently working on ***Serverless Optimization***
 - 🌱 I’m currently learning ***Database System***
-- 📫 How to reach me: wantzk@163.com
+- 📫 How to reach me: zikewang@outlook.com
 
 <!--
 - 👯 I’m looking to collaborate on ...
