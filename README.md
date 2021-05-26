@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZikeWang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🎓 Pursuing for **Academic Master** degree **@HUST** (majored in ***Computer System Architecture***)
-- 🔭 I'm currently working on ***Serverless Performance Optimization***
-- 🌱 I’m currently learning ***Database System***
+
+- 🔭 I'm currently working on ***Meituan***
+- - 🌱 I’m currently learning ***Database System Design & Implementation & Optimization***
 - 📫 How to reach me: zikewang@outlook.com
 
 <!--
