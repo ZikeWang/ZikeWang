@@ -6,7 +6,7 @@
 
 
 - 🔭 I'm currently working on ***Meituan***
-- 🌱 I’m currently learning ***Database System Design & Implementation & Optimization***
+- 🌱 I’m currently learning ***Database System Design & Optimization***
 - 📫 How to reach me: zikewang@outlook.com
 
 <!--
